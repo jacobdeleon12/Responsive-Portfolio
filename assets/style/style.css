@@ -335,10 +335,45 @@ footer{
         width: 100%;
     }
 
+    nav{
+        width: 100%;
+    }
+
+    header h1{
+        width: 100%;
+    }
+
     #Center-Column {
         width: 90%;
         margin-left: 10px;
     }
+
+    img{
+        width: 100%;
+    }
+
+    .portfolio-item{
+        width: 50%;
+    }
+
+    .portfolio-item:nth-of-type(even){
+        float: left;
+    }
+
+    #port2{
+        width: 50%;
+    }
+
+    #port4{
+        width: 50%;
+    }
+
+    #port-column{
+        overflow: auto;
+    }
+    
+
+
     footer{
         width: 100%;
     }
@@ -346,15 +381,7 @@ footer{
         width: 15%;
     }
 
-    #port-layout{
-        width: 99%;
-
-    }
-
-    #port-column{
-        width: 96%;
-        margin-left: 10px; 
-    }
+   
 }
 
 
