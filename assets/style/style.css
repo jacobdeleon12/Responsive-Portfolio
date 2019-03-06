@@ -333,6 +333,7 @@ footer{
 
     header{
         width: 100%;
+        position: static;
     }
 
     nav{
@@ -340,7 +341,7 @@ footer{
     }
 
     header h1{
-        width: 100%;
+        width: 90%;
     }
 
     #Center-Column {
@@ -376,6 +377,7 @@ footer{
 
     footer{
         width: 100%;
+        position: static;
     }
     button{
         width: 15%;
